@@ -1,24 +1,24 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Paper Waste Detector] 🎯
+# Paper Waste Detector 🎯
 
 
 ## Basic Details
-### Team Name: [Nuts and wire]
+### Team Name: Nuts and wire
 
 
 ### Team Members
-- Team Lead: [Akbar Ali M] - [NSSCE]
+- Team Lead: Akbar Ali M - NSSCE
 
 ### Project Description
-[It Captures image using termux-api,and saves it,an opencv algorithm detects the contours and outlines it]
+It Captures image using termux-api,and saves it,an opencv algorithm detects the contours and outlines it
 
 ### The Problem (that doesn't exist)
-[Too much computer memory(Unused RAM is wasted RAM)]
+Too much computer memory(Unused RAM is wasted RAM)
 
 ### The Solution (that nobody asked for)
-[Spam the RAM with useless Tasks..]
+Spam the RAM with useless Tasks..
 
 ## Technical Details
 ### Technologies/Components Used
@@ -32,6 +32,7 @@ For Software:
 For Software:
 # Installation
 pip install -r Requirements.txt
+
 install termux on android via F-Droid
 
 # Run
