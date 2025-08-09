@@ -45,8 +45,7 @@ By Default it renders the Sillouet of a white paper
 #Screenshots
 ![alt text](<Screenshot 2025-08-09 062820.png>) 
 ![alt text](<Screenshot 2025-08-09 062804.png>)
-![alt text](<Screenshot 2025-08-09 064228.png>)
-![alt text](<Screenshot 2025-08-09 064156.png>)
+![alt text](<Screenshot 2025-08-08 204301.png>)
 
 
 Made with ❤️ at TinkerHub Useless Projects 
