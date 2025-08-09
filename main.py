@@ -1,13 +1,13 @@
 import paper_detect
 import Imagelocation
 import CameraFeed
-
-file_name = CameraFeed.CaptureImage()
-
-
-paper_detect.ShowImage2(paper_detect.BlackFilter(file_name),Loop=True)
-paper_detect.ShowImageRaw(file_name,Loop=True)
+import cv2
 
 
-# paper_detect.ShowImage(paper_detect.Filter3(file_name),Loop=True)
+# file_name = CameraFeed.CaptureImage()
 
+for file_name in Imagelocation.image_paths:
+    paper_detect.ShowImage2(paper_detect.BlackFilter(file_name))
+    paper_detect.ShowImageRaw(file_name)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()

@@ -74,7 +74,7 @@ def BlackFilter(Image):
     cv2.drawContours(image=image_copy, contours=contours, contourIdx=-1, color=(0, 255, 0), thickness=2, lineType=cv2.LINE_AA)
     return black_image
 
-def ShowImage2(resize_pic,windowname="ShowImage",Loop=False):
+def ShowImage2(resize_pic,windowname="BlackFilter",Loop=False):
     """Displays the image in a window only for development
     """
     # resize_pic = ReSizeToAspect(pic)
