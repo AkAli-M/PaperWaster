@@ -9,7 +9,7 @@ ImageName = f"photo_{current_time}.jpg"
 # The command to be executed
 # -c 0 specifies the back camera. You can change it to 1 for the front camera if available.
 
-def CaptureImage(FileName):
+def CaptureImage(FileName=ImageName):
     command = ["termux-camera-photo", "-c", "0", FileName]
     """Takes a picture using the termux-camera-photo command."""
     print("Attempting to take a picture...")
@@ -20,7 +20,5 @@ def CaptureImage(FileName):
 
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
-    
+    return ImageName
 
-if __name__ == "__main__":
-    CaptureImage(ImageName)
