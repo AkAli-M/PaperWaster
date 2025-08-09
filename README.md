@@ -42,6 +42,13 @@ python3 main.py
 For Software:
 By Default it renders the Sillouet of a white paper
 
+#Screenshots
+![alt text](<Screenshot 2025-08-09 062820.png>) 
+![alt text](<Screenshot 2025-08-09 062804.png>)
+![alt text](<Screenshot 2025-08-09 064228.png>)
+![alt text](<Screenshot 2025-08-09 064156.png>)
+
+
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
