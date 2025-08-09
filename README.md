@@ -42,7 +42,7 @@ python3 main.py
 For Software:
 By Default it renders the Sillouet of a white paper
 
-#Screenshots
+# Screenshots
 ![alt text](<Screenshot 2025-08-09 062820.png>) 
 ![alt text](<Screenshot 2025-08-09 062804.png>)
 ![alt text](<Screenshot 2025-08-08 204301.png>)
